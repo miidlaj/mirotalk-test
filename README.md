@@ -1,8 +1,8 @@
-<h1 align="center">MiroTalk SFU</h1>
+<h1 align="center">Newtok Technologies</h1>
 
 <br />
 
-<p align="center">Free WebRTC - SFU - Simple, Secure, Scalable Real-Time Video Conferences with support for up to 4k resolution. It's compatible with all major browsers and platforms</p>
+<p align="center">let's disscuss our </p>
 
 <hr />
 

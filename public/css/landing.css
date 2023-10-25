@@ -1223,7 +1223,7 @@ label {
     top: 41.9%;
     width: 28.03%;
     height: 37.37%;
-    background: linear-gradient(to left top, #00bffb, rgba(0, 191, 251, 0));
+    background: linear-gradient(to left top, #c5e9a6, rgba(0, 191, 251, 0));
     -webkit-transform: rotateZ(45deg);
     transform: rotateZ(45deg);
 }
@@ -1237,7 +1237,7 @@ label {
     top: 64.1%;
     width: 37.87%;
     height: 50.5%;
-    background: linear-gradient(to left top, #0270d7, rgba(2, 112, 215, 0));
+    background: linear-gradient(to left top, #7DC242, rgba(2, 112, 215, 0));
     -webkit-transform: rotateZ(-45deg);
     transform: rotateZ(-45deg);
 }
@@ -1251,7 +1251,7 @@ label {
     top: -56.8%;
     width: 56.81%;
     height: 75.75%;
-    background: linear-gradient(to left top, #00bffb, rgba(0, 191, 251, 0));
+    background: linear-gradient(to left top, #b3ed80, rgba(0, 191, 251, 0));
 }
 .hero-figure-box-03::before {
     background: linear-gradient(to left, #15181d 0%, rgba(21, 24, 29, 0) 60%);
@@ -1263,7 +1263,7 @@ label {
     top: -8%;
     width: 45.45%;
     height: 60.6%;
-    background: linear-gradient(to left top, #0270d7, rgba(2, 112, 215, 0));
+    background: linear-gradient(to left top, #aaeb71, rgba(2, 112, 215, 0));
     -webkit-transform: rotateZ(-135deg);
     transform: rotateZ(-135deg);
 }
@@ -1307,7 +1307,7 @@ label {
     top: 81.6%;
     width: 19.51%;
     height: 26.01%;
-    background: #0270d7;
+    background: #7DC242;
     -webkit-transform: rotateZ(-22deg);
     transform: rotateZ(-22deg);
 }
@@ -1321,7 +1321,7 @@ label {
     top: -17.9%;
     width: 6.63%;
     height: 8.83%;
-    background: #00bffb;
+    background: #aef472;
     -webkit-transform: rotateZ(-52deg);
     transform: rotateZ(-52deg);
 }
@@ -1335,7 +1335,7 @@ label {
     top: 4.3%;
     width: 3.03%;
     height: 4.04%;
-    background: rgba(0, 191, 251, 0.32);
+    background: rgb(53, 106, 6);
     -webkit-transform: rotateZ(-50deg);
     transform: rotateZ(-50deg);
 }

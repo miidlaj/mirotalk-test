@@ -3138,10 +3138,10 @@ function showAbout() {
 
     Swal.fire({
         background: swalBackground,
-        imageUrl: image.about,
-        customClass: { image: 'img-about' },
+        // imageUrl: image.about,
+        // customClass: { image: 'img-about' },
         position: 'center',
-        title: 'WebRTC SFU',
+        title: 'Newtok Technologies',
         html: `
         <br/>
         <div id="about">
@@ -3149,23 +3149,23 @@ function showAbout() {
                 id="support-button" 
                 data-umami-event="Support button" 
                 class="pulsate" 
-                onclick="window.open('https://codecanyon.net/user/miroslavpejic85')">
-                <i class="fas fa-heart"></i> 
-                Support
+                onclick="window.open('https://newtoktech.com')">
+                <i class="fas fa-arrow"></i> 
+                Website
             </button>
             <br /><br />
             Author: <a 
                 id="linkedin-button" 
                 data-umami-event="Linkedin button" 
-                href="https://www.linkedin.com/in/miroslav-pejic-976a07101/" target="_blank"> 
-                Miroslav Pejic
+                href="https://www.newtoktech.com" target="_blank"> 
+                Newtok Technologies Pvt Ltd.
             </a>
             <br /><br />
             Email:<a 
                 id="email-button" 
                 data-umami-event="Email button" 
-                href="mailto:miroslav.pejic.85@gmail.com?subject=MiroTalk SFU info"> 
-                miroslav.pejic.85@gmail.com
+                href="mailto:info@newtoktech.com?subject=Newtok Meet"> 
+                info@newtoktech.com
             </a>
         </div>
         `,

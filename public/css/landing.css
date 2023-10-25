@@ -1074,13 +1074,13 @@ label {
     height: 32px;
 }
 .button-primary {
-    background: #097dea;
-    background: linear-gradient(65deg, #0270d7 0, #0f8afd 100%);
+    background: #7DC242;
+    background: linear-gradient(65deg, #7DC242 0, #98e455 100%);
     border-radius: 6px;
 }
 .button-primary:hover {
-    background: #0982f4;
-    background: linear-gradient(65deg, #0275e1 0, #198ffd 100%);
+    background: #7DC242;
+    background: linear-gradient(65deg, #7DC242 0, #98e455  100%);
     border-radius: 6px;
 }
 .button-block {
@@ -1988,4 +1988,16 @@ main {
 .wh-200-150 {
     width: 200px;
     height: 150px;
+}
+
+.footer-icon{
+    color: #7dc242;
+}
+
+
+.footer-icon:hover{
+    fill: white;
+    color: #ffffff;
+    /* background: red !important; */
+    transition: all 0.2s ease-in-out;
 }
